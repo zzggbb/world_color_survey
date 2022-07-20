@@ -1,0 +1,3 @@
+speaker #26 of language #95 is missing from spkr.txt
+
+speaker #12 of language #97 is duplicated (one should be #13 i think)
